@@ -74,7 +74,7 @@ a.business:hover .new_window{background-position: -13px -22px;}
 	display: flex;
 	justify-content: space-between;
 	min-height: 320px; 
-	width: 1440px;
+	width: 100%;
 	margin: 0 auto;
 	padding-left: 20px;
 	box-sizing: border-box;
